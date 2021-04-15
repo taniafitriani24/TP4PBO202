@@ -1,0 +1,11 @@
+Saya Tania Fitriani mengerjakan TP 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek
+ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+# Fitur
+  - memasukan data
+  - menampilkan data
+  - menghapus data
+  - mengedit status
+
+# video demo
+https://drive.google.com/file/d/1V2v7lLkR0FM3lliFRnmvc_fqqAxgbju3/view?usp=sharing
